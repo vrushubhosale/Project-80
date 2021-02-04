@@ -1,0 +1,17 @@
+input{
+    margin: 10px;
+}
+#submitbtn{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: rgb(12, 145, 101);
+}
+#displayname{
+    font-weight: bold;
+}
+#sortbtn{
+    display: none;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: rgb(12, 145, 101);
+}
